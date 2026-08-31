@@ -4,7 +4,7 @@
 This project analyzes retail sales data from a regional sales dataset to provide actionable business insights for a retail chain. The original pipeline moves data from GitHub → AWS S3 Source Bucket → Google Colab for analysis and feature engineering → S3 Staging → S3 Destination for Power BI dashboard.
 
 **Original Author**: ARITRA (with S3 pipeline, basic uploads)
-**Enhancements by**: Grok (xAI) - Added comprehensive EDA, advanced feature engineering, encoding, binning, statistical analysis, visualizations, and business insights.
+**Enhancements by**: ARITRA- Added comprehensive EDA, advanced feature engineering, encoding, binning, statistical analysis, visualizations, and business insights.
 
 ## What Was Enhanced (Don't Delete Original Code)
 All original code (S3 read/upload functions, timestamped staging uploads, etc.) is **preserved** at the top and bottom of the notebook. New sections are added **on top** with clear markdown headers.
